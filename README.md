@@ -85,12 +85,12 @@ Business-Intelligence-Dashboard/
 │   ├── Online_Retail.xlsx
 │   └── Airbnb.csv
 └── tests/                      # Comprehensive test suite
-├── init.py
-├── conftest.py
-├── test_utils.py
-├── test_data_processor.py
-├── test_visualizations.py
-└── test_insights.py
+    ├── init.py
+    ├── conftest.py
+    ├── test_utils.py
+    ├── test_data_processor.py
+    ├── test_visualizations.py
+    └── test_insights.py
 ```
 ## 🚀 Getting Started
 
