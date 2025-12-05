@@ -1,6 +1,17 @@
+---
+title: Business Intelligence Dashboard
+emoji: 📊
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.1
+app_file: app.py
+pinned: false
+---
+
 # 📊 Business Intelligence Dashboard
 
-A professional, interactive Business Intelligence dashboard built with Gradio that enables non-technical stakeholders to explore and analyze business data. The application allows users to upload datasets, apply filters, generate visualizations, and extract actionable insights—all through an intuitive web interface.
+A professional, interactive Business Intelligence dashboard built with Gradio that enables non-technical stakeholders to explore and analyze business data.
 
 ## 🌟 Features
 
